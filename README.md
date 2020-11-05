@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gürkan</h1>
 
-[![Discord](https://discord.com/api/guilds/577869674801397760/widget.png?style=banner1)](https://discord.gg/XUck63E)
+
 
 ### Connect with me:
 
-[<img align="left" alt="cankcygt| Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
+[![Discord](https://discord.com/api/guilds/577869674801397760/widget.png?style=banner1)](https://discord.gg/XUck63E)
 
 <br />
 
@@ -21,5 +21,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xenknight61&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="XenKnighT's GitHub Stats" />
 </a>
  
-
-[discord]: https://discord.gg/XUck63E
