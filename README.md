@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gürkan</h1>
 
-[![Discord](https://img.shields.io/discord/746155721392914442?color=%237289da&label=MY%20DISCORD&logo=Discord&style=for-the-badge)](https://discord.gg/XUck63E)
+[![Discord](https://discord.com/api/guilds/577869674801397760/widget.png?style=banner1)](https://discord.gg/XUck63E)
 
 ### Connect with me:
 
