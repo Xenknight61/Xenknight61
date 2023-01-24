@@ -1,3 +1,4 @@
 {
-  "vanilla-js" : false
+  "vanilla-js" : false,
+  "gksphone-app": true
 }
