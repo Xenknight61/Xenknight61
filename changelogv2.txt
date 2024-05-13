@@ -1,4 +1,10 @@
 13/05/2024
-Test1
-Test2
-Test3
+Exports added and corrections made
+Fixed news job control issue - ⁠News
+Edited about section in settings
+Additions were made to the languages 
+Notification system activated 
+Fixed css error caused by android and ios difference in tunefiy
+You can change the notification sound from the Tunefiy app
+Unused logos removed
+Added notification sounds
