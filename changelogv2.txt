@@ -1,6 +1,6 @@
 13/05/2024
 Exports added and corrections made
-Fixed news job control issue - ⁠News
+Fixed news job control issue
 Edited about section in settings
 Additions were made to the languages 
 Notification system activated 
