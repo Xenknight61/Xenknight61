@@ -1,16 +1,9 @@
-17/05/2024
-Export added for Custom Number Creation,
-A function has been added to the open side for those who want to customize Dispatch,
-Voice exports moved to open files,
-The problem with qs-inventory has been fixed,
-Fixed an issue when call for a player who has left,
-"phonenewnumber" register command has been created, you can use it to create a new number for a player,
-cd_dispatch and ps-dispatch were integrated with the phone,
-When the update came, a sign was added to the about section in the settings,
-Webhooks have been edited and webhooks have been added for many apps,
-Society related operations (get money, remove, add) have been moved to framework.lua,
-Fixed issue where secret question remained in eng language during installation,
-Arrangements were made regarding loaf and cd garage in the esx section,
-Fixed typo in bank history in Carseller sale
-Added withdrawal process when purchasing new number
-Frontend and backend arrangements were made
+21/05/2024
+Changes have been made to LiveStream, Facetime Live broadcast streaming operations, making them faster and more fluid.
+The error that occurred while getting a new number in qb-core has been fixed.
+Fixed the error regarding esx and qb-core dispatch message
+The error received when using mail export has been fixed. 
+If Vale Ped takes the car too far away, it will now spawn next to the bring player after a certain period of time
+Fixed issue not reading job authorizations after restarting the phone 
+Added webhook for message 
+Fixed some bugs in Squawk search
