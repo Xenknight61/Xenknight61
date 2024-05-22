@@ -1,9 +1,8 @@
-21/05/2024
-Changes have been made to LiveStream, Facetime Live broadcast streaming operations, making them faster and more fluid.
-The error that occurred while getting a new number in qb-core has been fixed.
-Fixed the error regarding esx and qb-core dispatch message
-The error received when using mail export has been fixed. 
-If Vale Ped takes the car too far away, it will now spawn next to the bring player after a certain period of time
-Fixed issue not reading job authorizations after restarting the phone 
-Added webhook for message 
-Fixed some bugs in Squawk search
+22/05/2024
+Added German, Afrikaans language, time and currency setting,
+Fixed issues when passing VidMeet during a call,
+Fixed ringtone not ringing when receiving a call,
+GetPlayer error when getting new number in qb-core solved,
+Fixed animation issue when you are on a call after VidMeet,
+Fixed issue with props when in selfie and camera,
+Fixed the problem that the sim app number does not appear in the new number received with export.
