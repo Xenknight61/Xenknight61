@@ -1,8 +1,13 @@
-22/05/2024
-Added German, Afrikaans language, time and currency setting,
-Fixed issues when passing VidMeet during a call,
-Fixed ringtone not ringing when receiving a call,
-GetPlayer error when getting new number in qb-core solved,
-Fixed animation issue when you are on a call after VidMeet,
-Fixed issue with props when in selfie and camera,
-Fixed the problem that the sim app number does not appear in the new number received with export.
+25/05/2024
+Errors that occurred when you gave a new number to the player have been fixed,
+Players' identifier has been added to the message webhook section,
+In-game clock and time function has been added,
+Fixed the issue where Rent A Car, Adv, News applications are reset when you install a new phone,
+Messages also added information about when messages were sent in the content,
+Fixed color compatibility issue in the message area,
+Sending function with message enter has been added,
+Fixed the problem of not marking the incoming message as unread while in the message,
+Fixed the problem of group messages showing the number of the person sending the message if they are saved in the contacts,
+Added “typing” to private and group messages,
+Github added languages moved to locales,
+Mail delete all option has been added.
