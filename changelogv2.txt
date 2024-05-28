@@ -1,13 +1,15 @@
-25/05/2024
-Errors that occurred when you gave a new number to the player have been fixed,
-Players' identifier has been added to the message webhook section,
-In-game clock and time function has been added,
-Fixed the issue where Rent A Car, Adv, News applications are reset when you install a new phone,
-Messages also added information about when messages were sent in the content,
-Fixed color compatibility issue in the message area,
-Sending function with message enter has been added,
-Fixed the problem of not marking the incoming message as unread while in the message,
-Fixed the problem of group messages showing the number of the person sending the message if they are saved in the contacts,
-Added “typing” to private and group messages,
-Github added languages moved to locales,
-Mail delete all option has been added.
+28/05/2024
+Reports or messages received in Dispatch will appear when the player re-enters the game,
+Added information on when the Dispatch Message arrived,
+Translation error in typing section in private messages has been fixed,
+Fixed the problem of invoices not appearing when a new phone is installed,
+Backend side redesigned for music and Youtube,
+Fixed the issue of scrolling down in the Billing application,
+Notifications when you create an invoice in the Business application have been rearranged,
+Invoicing function added to workplaces,
+App logos that may have some copyright issues have changed,
+App Store changed to App Gallery,
+Fixed issue with livestream webhook in ESX,
+Fixed the error where the phone would not turn on in some cases in ESX,
+Fixed the problem of seeing the player open when the player re-enters the game after turning off dispatch from the Business application,
+The problem of not renewing the bank budget in ESX has been resolved.
