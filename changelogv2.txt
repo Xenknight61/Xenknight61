@@ -1,15 +1,10 @@
-28/05/2024
-Reports or messages received in Dispatch will appear when the player re-enters the game,
-Added information on when the Dispatch Message arrived,
-Translation error in typing section in private messages has been fixed,
-Fixed the problem of invoices not appearing when a new phone is installed,
-Backend side redesigned for music and Youtube,
-Fixed the issue of scrolling down in the Billing application,
-Notifications when you create an invoice in the Business application have been rearranged,
-Invoicing function added to workplaces,
-App logos that may have some copyright issues have changed,
-App Store changed to App Gallery,
-Fixed issue with livestream webhook in ESX,
-Fixed the error where the phone would not turn on in some cases in ESX,
-Fixed the problem of seeing the player open when the player re-enters the game after turning off dispatch from the Business application,
-The problem of not renewing the bank budget in ESX has been resolved.
+31/05/2024
+Fixed the issue where other channels would be deleted when creating a second Darkchat channel.
+Resolved the issue with the Squawk webhook not working.
+Fixed the issue where Carseller would get stuck on loading when buying a car.
+Fixed an error related to the Carseller webhook.
+Added the time when an advertisement is sent.
+Added client and server export for Dispatch.
+When hiring a new person, the other party is now hired with a confirmation notification.
+Added the option for Custom Wallpaper.
+The error occurring in the SIM Application has been fixed
