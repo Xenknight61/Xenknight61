@@ -1,10 +1,10 @@
-31/05/2024
-Fixed the issue where other channels would be deleted when creating a second Darkchat channel.
-Resolved the issue with the Squawk webhook not working.
-Fixed the issue where Carseller would get stuck on loading when buying a car.
-Fixed an error related to the Carseller webhook.
-Added the time when an advertisement is sent.
-Added client and server export for Dispatch.
-When hiring a new person, the other party is now hired with a confirmation notification.
-Added the option for Custom Wallpaper.
-The error occurring in the SIM Application has been fixed
+07/06/2024
+Added a function to delete automatically paid bills in the Config. If enabled, the server will delete paid bills every time it starts.
+Added a language change function to the phone settings option.
+Added the bill ID to the invoice description in the Billing App.
+Added language options to KeyMapping descriptions.
+Changed the sorting of bill in the Business application so that the latest invoices are at the top.
+Fixed issues that occurred when any bills was deleted.
+Fixed the extra notification that appeared when purchasing a coin in StockMarket. Disabled the display of coins that are not over 1 dollar in StockMarket. You can activate the desired coins in config.lua, and they need to be over 1 dollar.
+Fixed the language issue in the input field of the phone number transfer section in the Bank application.
+The problem of the car spawning next to you after you disabled the valet ped from config.lua has been resolved. 
