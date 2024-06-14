@@ -1,10 +1,25 @@
-07/06/2024
-Added a function to delete automatically paid bills in the Config. If enabled, the server will delete paid bills every time it starts.
-Added a language change function to the phone settings option.
-Added the bill ID to the invoice description in the Billing App.
-Added language options to KeyMapping descriptions.
-Changed the sorting of bill in the Business application so that the latest invoices are at the top.
-Fixed issues that occurred when any bills was deleted.
-Fixed the extra notification that appeared when purchasing a coin in StockMarket. Disabled the display of coins that are not over 1 dollar in StockMarket. You can activate the desired coins in config.lua, and they need to be over 1 dollar.
-Fixed the language issue in the input field of the phone number transfer section in the Bank application.
-The problem of the car spawning next to you after you disabled the valet ped from config.lua has been resolved. 
+14/06/2024
+Fixed the issue with email sorting, now set from newest to oldest
+Fixed the animation freezing issue when spamming the phone on and off
+Fixed the issue related to message timestamps (how many hours ago it was sent)
+Fixed the issue with emails not being marked as read
+Fixed the issue with multiple registrations when spamming a phone number with AirShare or eyetarget - ⁠multiple contact 1 number
+Fixed the issue with setting the mail button name on the Doc page
+Fixed CSS issues on the mail page
+Fixed SQL error if the email address or security answer is too long
+Fixed the issue with the safe going into negative balance when tipping in the business app in Qb-core
+Fixed the issue with webhook when sending donations in livestream on ESX
+Fixed the issue where control center and app addition modal did not open in some cases  
+Fixed the font issues in the Business APP, now other apps show the same font 
+Fixed the issue where the animation would repeat when dying while the camera was openn
+Fixed the issue where the phone startup screen did not appear in some cases 
+Fixed the freezing issue when deleting car sales in CarSeller
+Fixed the issue where sometimes jobs were not visible in the Taxi app
+Fixed the issue where the phone froze when deleting call history
+Fixed the error when pasting an image in the reply panel in Squawk
+Enabled sending money to an offline player
+Added export for giving keys in qs-vehiclekeys
+Added image enlargement functionality in CarSeller
+If the prop remains in your hand when pressing the phone on and off button too many times, you can use the /delphone command
+Self-sending money blocked - ⁠OfflineBankTransfer
+Removed airdropID in config.lua and replaced it with AirSharePlayerName and updated its description
