@@ -1,17 +1,15 @@
-21/06/2024
-New App! Music!
-The function of quickly answering and hanging up calls has been added (players must assign these keys in the game). It is empty by default,
-xsound integrated,
-Now the person next to you will be able to hear your ringtone when your phone rings (if xsound is installed, config.json xsound must be activated),
-Custom App support added. There is no limit as in v1,
-The info panel at the top left of the camera application has been added to the language options,
-The actively used phone number has been added to the descriptions section that appears in the inventory in ox_inventory.
-Animation change issue when character runs during call fixed,
-The problem of opening an account with 4 characters in the ID section on the phone registration screen has been fixed,
-Fixed the issue where the amount of money displayed in the bank application would appear incorrect when you receive other player's phones while MetaItem is active,
-In some cases, the issue of jobs with allowjob set in the AppStore sometimes not being able to see their applications has been fixed,
-Problems where the phone would hang or give errors in some applications when changes were made to the SIM packages were resolved,
-Fixed the issue where the animation gets stuck when the phone is turned off while the camera is open,
-Fixed errors in money transfers or apparent amounts to an offline player in ESX,
-Fixed a css error on the page showing how much players in the Business application are paid,
-CSS error on the dark and light mode selection screen in the phone setup has been resolved,
+28/06/2024
+Map hidden while camera active, 
+Valet cars will no longer arrive damaged when bring,
+If you add an image link to the new post sharing section in Squawk, it will automatically be added to the image section,
+There is no need to use it from the inventory, the phone will now be opened with F1,
+IsCameraOpen export added,
+Added exports for Custom App,
+The issue that occurred when using spaces when searching in the Music application has been resolved, 
+Some problems experienced in the valet have been resolved by making improvements again,
+Fixed a bug related to E-Sim,
+Errors that appeared on the server side due to some situations in qb-core have been fixed,
+The problem of automatically shutting off the phone in some cases in qb-core has been fixed,
+Fixed the issue where the camera would remain on when using the camera in applications,
+The state has been fixed to 0 when you call the car from the valet in Qb-core,
+Fixed a few bugs in the music frontend.
