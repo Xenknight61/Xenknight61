@@ -1,15 +1,2 @@
-28/06/2024
-Map hidden while camera active, 
-Valet cars will no longer arrive damaged when bring,
-If you add an image link to the new post sharing section in Squawk, it will automatically be added to the image section,
-There is no need to use it from the inventory, the phone will now be opened with F1,
-IsCameraOpen export added,
-Added exports for Custom App,
-The issue that occurred when using spaces when searching in the Music application has been resolved, 
-Some problems experienced in the valet have been resolved by making improvements again,
-Fixed a bug related to E-Sim,
-Errors that appeared on the server side due to some situations in qb-core have been fixed,
-The problem of automatically shutting off the phone in some cases in qb-core has been fixed,
-Fixed the issue where the camera would remain on when using the camera in applications,
-The state has been fixed to 0 when you call the car from the valet in Qb-core,
-Fixed a few bugs in the music frontend.
+15/07/2024
+New App! Job Center!
