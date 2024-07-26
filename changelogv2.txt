@@ -1,24 +1,12 @@
-22/07/2024
-Changed the default photo format to webp and increased the quality option.
-You can now hear Tunefiy ringtones with Xsound.
-Now, with Speaker, the player with an active speaker can hear the voices of nearby players in the call (suggestion).
-Added a control function to the image section in the Dispatch review section.
-Added notification counts next to the logo on the menu screen and next to the bell in Dispatch if there are new notifications.
-Added IsUnpaidBillsbyCid export.
-Fixed the issue where Block export was not working.
-Resolved the issue where the sound would not resume after using Mute.
-Fixed the issue where ringtones with Xsound would not loop when active.
-Resolved the issue in DarkChat where messages in other channels would be deleted when a message arrived in one channel.
-Fixed the issue in DarkChat where messages would not appear under certain conditions.
-Resolved the issue where the DarkChat app would not scroll down on the main page.
-When you die, any ongoing conversation will automatically close and no one can contact you while you are dead.
-Fixed the issue where the speaker would not work when activated during a call.
-Fixed the sound issues in the LiveStream app.
-Resolved the issue where the spacebar would not work when playing Tetris.
-Fixed the issue in TaxiAPP where the total price currency would not change.
-Fixed an error that occurred when adding someone to a group call.
-Lowered the volume levels of Calling and Busy sounds.
-Resolved the slowdown issue in the Recents section when data is too large.
-Fixed the issue where the camera would remain on when closed with Esc while active in apps.
-Resolved the issue in the music app where the sound would not change when using headphones.
-Fixed the issue where commands would not work in ESX.
+26/07/2024
+Added a red warning message below the input fields during new registration on the Setup screen if the values are not entered correctly.
+Resolved the issue where calls sometimes continued to be heard by other users.
+Fixed the scrolling issue in the job app.
+In Squawk, broken avatar images will now default to a standard avatar.
+Fixed the scrolling issue in the "Forgot Password" section on the Setup screen.
+Fixed the issue in the CarSeller app where users could accidentally purchase their own car.
+Resolved the issue where deleting a message could also delete some other messages.
+Resolved sound issues related to LiveStream.
+Fixed the issue where the phone animation could enter a loop when closing the phone.
+Fixed the issue where props sometimes would not appear.
+Resolved the animation issue when using shortcut keys during a call.
