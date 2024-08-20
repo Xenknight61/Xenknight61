@@ -1,12 +1,3 @@
-26/07/2024
-Added a red warning message below the input fields during new registration on the Setup screen if the values are not entered correctly.
-Resolved the issue where calls sometimes continued to be heard by other users.
-Fixed the scrolling issue in the job app.
-In Squawk, broken avatar images will now default to a standard avatar.
-Fixed the scrolling issue in the "Forgot Password" section on the Setup screen.
-Fixed the issue in the CarSeller app where users could accidentally purchase their own car.
-Resolved the issue where deleting a message could also delete some other messages.
-Resolved sound issues related to LiveStream.
-Fixed the issue where the phone animation could enter a loop when closing the phone.
-Fixed the issue where props sometimes would not appear.
-Resolved the animation issue when using shortcut keys during a call.
+20/08/2024
+New App Casino!
+Dice and Roll games added.
