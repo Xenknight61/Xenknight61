@@ -1,3 +1,7 @@
-20/08/2024
-New App Casino!
-Dice and Roll games added.
+30/08/2024
+Improvements have been made to the front camera (selfie), now your character is looking at the camera,
+Increased camera zoom setting,
+Improvements have been made to the quality of the pictures taken,
+You can now view the pictures in the News application in large sizes,
+Infrastructure improvements have been made regarding Live Stream,
+Chinese language has been added,
