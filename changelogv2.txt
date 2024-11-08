@@ -1,7 +1,10 @@
-30/08/2024
-Improvements have been made to the front camera (selfie), now your character is looking at the camera,
-Increased camera zoom setting,
-Improvements have been made to the quality of the pictures taken,
-You can now view the pictures in the News application in large sizes,
-Infrastructure improvements have been made regarding Live Stream,
-Chinese language has been added,
+08/11/2024
+Player's photo, full name, birth date, job and grade, bank account and licenses.
+You won't be able to see the person whose phone is in airplane mode in the AirShare feature (if Config.AirSharePlayerName is false),
+Added setting to config.json file to turn off anonymous report option in Job Dispatch,
+Now other players ringtones and music sounds are not heard when Streamer Mode is active,
+Added function to prevent it from working under water, you can turn it on and off from config.lua,
+Added ability to add images with url to Gallery application,
+Android and iPhone phones can now use the same mail,
+Added phonechangenumber command,
+Added ChangeNumber export.
