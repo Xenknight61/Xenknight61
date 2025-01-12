@@ -1,20 +1,7 @@
-15/12/2024
-Advertising ad sharing area now shows auto price in config.lua,
-Time labels moved to under bubble in message app and now images also have time labels,
-Group message editing system has been completely changed,
-Improvements/edits regarding Group Messages have been made,
-Group names have been limited to 3 - 20 characters,
-Phone name change system has been limited to 20 characters,
-QR code has been added to settings > about section for Real app system,
-You can now continue from whichever application you left off on your phone (config.json > BackLastPage - default value: true),
-Call and videocall functions have been added for Custom App,
-Timestamp of Squawk posts has been added,
-Loading bar has been added when using image pasting function in Squawk post section,
-Loading bar has been added while sharing post in Squawk application,
-Notification shrinking function has been turned off when accepting incoming call from notification,
-Improvements regarding camera have been made,
-Past call, inactive phone data, bank history, and mails have been added to auto delete function,
-Dispatch auto open close feature in dispatch app added to ESX,
-Added the ability to turn off the Real app QR / message functions (config.lua),
-The player licenses function in esx has been moved to the framework.lua file and can be customized.
-Added Portuguese language support.
+12/01/2025
+AI Assistant Lucy added!
+It can be opened by holding down the iPhone action button, holding down the Android volume button, or from the control panel.
+AI currently supports English, French, German, Turkish, Portuguese, and Indonesian.
+Added Screenshot feature (It can be taken by holding down the iPhone action button, Android power button, from the control panel, or with AI),
+New effect sounds added,
+Control Panel design changes were made, ios and android views were made separately and buttons were added additionally,
