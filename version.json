@@ -3,5 +3,8 @@
     "gkscraft": "1.2.0",
     "gksfuel": "1.0.0",
     "gksphonev2": "2.0.10",
-    "gksphonev2software": "0.0.20"
+    "gksphonev2software": "0.0.20",
+    "addons": {
+        "gkswns": "1.0.0"
+    }
 }
