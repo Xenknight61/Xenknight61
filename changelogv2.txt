@@ -1,7 +1,5 @@
-12/01/2025
-AI Assistant Lucy added!
-It can be opened by holding down the iPhone action button, holding down the Android volume button, or from the control panel.
-AI currently supports English, French, German, Turkish, Portuguese, and Indonesian.
-Added Screenshot feature (It can be taken by holding down the iPhone action button, Android power button, from the control panel, or with AI),
-New effect sounds added,
-Control Panel design changes were made, ios and android views were made separately and buttons were added additionally,
+16/02/2025
+Lucy assistant is now more talkative,
+You can now send money to a person in your contact list with Lucy,
+Quick action key added for accepting and rejecting calls. (Enter accept call, Backspace reject call),
+Photo view event has been changed and will now be visible on full screen.
