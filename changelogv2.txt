@@ -1,5 +1,2 @@
-16/02/2025
-Lucy assistant is now more talkative,
-You can now send money to a person in your contact list with Lucy,
-Quick action key added for accepting and rejecting calls. (Enter accept call, Backspace reject call),
-Photo view event has been changed and will now be visible on full screen.
+18/03/2025
+LiveStream GIF and video sending added,
