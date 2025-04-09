@@ -1,2 +1,4 @@
-18/03/2025
-LiveStream GIF and video sending added,
+09/04/2025
+Job Call has been added to the Dispatch application,
+Emoji system has changed (faster than before),
+Added Dark Chat photo sending
