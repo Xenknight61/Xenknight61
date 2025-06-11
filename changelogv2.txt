@@ -1,4 +1,9 @@
-09/04/2025
-Job Call has been added to the Dispatch application,
-Emoji system has changed (faster than before),
-Added Dark Chat photo sending
+11/06/2025
+Added Flare app (like Tinder),
+Contact App moved to call and design changed,
+GPS app design has been changed,
+You can now add special posters and ringtones to the people you save,
+Some calls are now listed collectively in Recent, you can access old calls when you scroll down,
+Call Screen design has been changed,
+2048, Snake, Tetris design has been changed,
+AirShare design has been renewed.
