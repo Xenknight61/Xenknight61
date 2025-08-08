@@ -1,5 +1,4 @@
-13/07/2025
-SnapGram app added (like Instagram),
-Bank app design changed,
-Gallery app design changed,
-App Gallery design changed.
+05/08/2025
+DarkChat has been fully redesigned for a smoother, modern messaging experience,
+Camera app received multiple upgrades — including a new flash and blur effect,
+NPC taxi jobs have been added to the Taxi app.
