@@ -1,9 +1,9 @@
-12/11/2025
-Settings app redesigned,
-Garage app redesigned,
-Advertising app redesigned,
-Lock screen now customizable,
-Phone frame redesigned,
-GPS in messages is now displayed on the map,
-Message audio player system has been updated
-New minigame added: Break Out (blackjack removed).
+03/12/2025
+Admin Permission System added to Group Messages,
+Major improvements to the sound system,
+AirShare improvements,
+New option to allow only admins to send messages in group chats,
+Added cooldown system for YellowPages post sharing,
+Added notification message for Missed Calls,
+Added option to disable the Setup Screen,
+New message badge added when receiving a new message.
