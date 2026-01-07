@@ -1,9 +1,6 @@
-03/12/2025
-Admin Permission System added to Group Messages,
-Major improvements to the sound system,
-AirShare improvements,
-New option to allow only admins to send messages in group chats,
-Added cooldown system for YellowPages post sharing,
-Added notification message for Missed Calls,
-Added option to disable the Setup Screen,
-New message badge added when receiving a new message.
+07/01/2026
+New Trendly App,
+G-OS UI Update,
+G-MD UI Update,
+Lucy AI Update,
+Sound System Update
