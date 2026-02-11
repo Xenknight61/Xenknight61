@@ -1,6 +1,5 @@
-20/01/2026
-Fixed CSS issue where message popups were not scaling correctly based on phone size,
-Fixed StockMarket registration issue where data was not being saved to the database,
-Fixed Message Live Location feature not working properly,
-Improved Society Wallet withdrawal logs by adding missing information,
-Game time control period reduced.
+11/02/2026
+Video upload function added.
+The music system has been changed.
+Stock Market: New exchanges added.
+Changes have been made to the G-OS interfaces.
