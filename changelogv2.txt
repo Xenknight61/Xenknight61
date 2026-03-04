@@ -1,5 +1,2 @@
-11/02/2026
-Video upload function added.
-The music system has been changed.
-Stock Market: New exchanges added.
-Changes have been made to the G-OS interfaces.
+04/03/2026
+Tunefiy app completely revised.
