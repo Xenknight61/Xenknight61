@@ -1,2 +1,7 @@
-04/03/2026
-Tunefiy app completely revised.
+15/07/2026
+New widgets have been added.
+The App Switcher has been added.
+Home screen customization options have been expanded.
+App animations, icons, notifications, and Control Center effects have been redesigned.
+The phone startup experience has been improved.
+Performance improvements and bug fixes have been made.
