@@ -6,5 +6,9 @@
     "gksphonev2software": "1.4.0",
     "addons": {
         "gkswns": "1.0.0"
+    },
+    "beta": {
+      "gksphonev2": "2.6.0-rc.1",
+      "gkstablet": "1.0.5-beta.1"
     }
 }
