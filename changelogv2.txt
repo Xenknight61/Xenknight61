@@ -1,8 +1,7 @@
-31/07/2026
-Dispatch notifications no longer freeze movement when the tablet is closed
-Fixed accidental punching when a dispatch notification appears
-Dispatch hotkeys work properly (X / Z / J / G / O)
-Fixed citizen search when creating a warrant
-Fixed duplicate dispatch notifications
-Fixed side panel / notification icon display
-Fixed MDT logo not showing
+14/08/2026
+New apps added: Mechanic, Restaurants, Courier, Voice Memo and Snapchat.
+Added Screen Damage, Phone Health and Storage systems.
+Added Face ID, Focus Modes and customizable Lock Screen shortcuts.
+Live Activities are now supported through Dynamic Island and Lock Screen.
+Added Phone Recovery / Password Cracker NPC system.
+Home Screen, app icons, animations and overall phone UI have been refreshed.
