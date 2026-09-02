@@ -1,7 +1,9 @@
-14/08/2026
-New apps added: Mechanic, Restaurants, Courier, Voice Memo and Snapchat.
-Added Screen Damage, Phone Health and Storage systems.
-Added Face ID, Focus Modes and customizable Lock Screen shortcuts.
-Live Activities are now supported through Dynamic Island and Lock Screen.
-Added Phone Recovery / Password Cracker NPC system.
-Home Screen, app icons, animations and overall phone UI have been refreshed.
+02/09/2026
+Weather, Clock and Calendar apps have been added, while SIM, Notes and Contacts/Calls have been redesigned.
+A new Watch system has been added with 9 apps, health tracking, crash/fall detection and SOS support.
+App Store now includes a Games category with Snake, 2048 and Breakout.
+The Home Screen has been improved with App Library, page editing, wallpaper customization and better app management.
+The House app has been redesigned with expanded property, key, bill and utility features.
+LiveStream and Courier systems have received new features and improvements.
+Added Performance Mode to improve FPS on lower-end systems by reducing visual effects.
+General UI, backend, performance improvements and bug fixes have been made.
