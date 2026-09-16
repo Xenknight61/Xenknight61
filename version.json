@@ -2,13 +2,13 @@
     "version": "1.6.10",
     "gkscraft": "1.2.0",
     "gksfuel": "1.0.0",
-    "gksphonev2": "2.8.2",
+    "gksphonev2": "2.8.3",
     "gksphonev2software": "1.7.0",
     "addons": {
         "gkswns": "1.0.0"
     },
     "beta": {
       "gksphonev2": "2.6.0-rc.1",
-      "gkstablet": "1.0.6-beta.3"
+      "gkstablet": "1.0.6-beta.4"
     }
 }
