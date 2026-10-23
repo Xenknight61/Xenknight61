@@ -1,7 +1,6 @@
-02/09/2026
-
-Added Duty Blips and automatic weapon registration.
-Unity Tracking has been completely rewritten.
-Added Stash functionality to the Reports page.
-Added `p_policejob`, `wasabi_police_v2` jail support.
-Backend performance and stability improvements have been made.
+23/10/2026
+Added bulletins with formatted text, images, pinning and search.
+Added General chat and public or invite-only groups with message history, replies and unread counts.
+Added a shared medical conditions catalog for patient profiles and reports.
+Added reusable report tags and manual dispatch calls with map locations.
+Added separate permissions for new features.
